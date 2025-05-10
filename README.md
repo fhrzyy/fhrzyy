@@ -1,4 +1,4 @@
 
-![Fahrur Rozi](img/Header2.png)
+![Fahrur Rozi](img/Fg.png)
 
 **Saya Lagi belajar** 😁
