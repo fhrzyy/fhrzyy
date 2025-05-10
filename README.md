@@ -1,4 +1,6 @@
+**Hi, im Fahrur Rozi**
 
-![Fahrur Rozi](img/Fg.png)
 
-**Saya Lagi belajar** 😁
+
+
+![Fahrur Rozi](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
