@@ -1,4 +1,4 @@
-# **Hi, im Fahrur Rozi**
+# **Hi, I'm Fahrur Rozi**
 
 Im a student software engineering smkn 6 jember
 
